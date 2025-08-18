@@ -164,8 +164,6 @@ streamlit run rag-bot.py
 ## 🔐 Keamanan API Key
 
 * Simpan di **environment variable** saja.
-* **Jangan** commit key ke Git.
-* Jika tak sengaja tersebar, **revoke/regenerate** di dashboard OpenAI.
 
 ---
 
