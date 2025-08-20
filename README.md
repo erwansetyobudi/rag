@@ -198,8 +198,3 @@ Silakan pilih lisensi yang sesuai (MIT / Apache‑2.0).
 
 
 
-
-
-### Preview
-https://drive.google.com/drive/folders/1FG3G6UoFq35A-AfuPia3unryJbT4bx1I?usp=sharing
-
