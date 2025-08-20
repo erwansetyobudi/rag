@@ -188,14 +188,18 @@ Silakan pilih lisensi yang sesuai (MIT / Apache‑2.0).
 
 ---
 
-### Skrinsut
-
-![UI](docs/screenshot.png) *(opsional)*
-
----
-
 ### Screen Shoot
 <img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/edcdfdbb-9d3e-4f3f-94e7-c653b7146804" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/265d72a6-1818-4882-bb18-33f8b1f27d47" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f75aed0e-8034-4dda-a9a5-e71ec88d8f8e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/24a3bc33-d300-4fc1-9f4c-09b5b08e766d" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1a8a7ef5-e63e-4534-8e2d-5b3e384d5958" />
+
+
+
+
 
 ### Preview
 https://drive.google.com/drive/folders/1FG3G6UoFq35A-AfuPia3unryJbT4bx1I?usp=sharing
+
