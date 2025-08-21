@@ -45,8 +45,6 @@ scikit-learn
 * **Python 3.10+ 64-bit** (yang dipakai Laragon)
 * **Akun OpenAI** + **API Key** aktif (pastikan billing/kuota tersedia)
 
-> Jangan pernah commit/unggah API key ke GitHub.
-
 ---
 
 ## 🚀 Quickstart (Terminal Laragon)
@@ -176,9 +174,7 @@ streamlit run rag-bot.py
 ---
 
 ## 📝 Lisensi
-
-Silakan pilih lisensi yang sesuai (MIT / Apache‑2.0).
-
+MIT
 ---
 
 ## 🙌 Kredit
